@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+                android:background="#E1E1E1"
+              android:layout_height="match_parent">
+
+    <GridView
+        android:padding="2dp"
+        android:background="#fff"
+        android:numColumns="2"
+        android:id="@+id/fenlei_gridView"
+        android:layout_width="match_parent"
+        android:layout_height="240dp"></GridView>
+</RelativeLayout>

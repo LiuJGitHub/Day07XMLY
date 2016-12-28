@@ -1,0 +1,772 @@
+{
+  "datas": [
+    {
+      "ret": 0,
+      "count": 15,
+      "title": "节目榜单",
+      "list": [
+        {
+          "ret": 0,
+          "maxPageId": 0,
+          "totalCount": 0,
+          "pageId": 0,
+          "pageSize": 1,
+          "list": [],
+          "rankingListId": 57,
+          "coverPath": "http://fdfs.xmcdn.com/group10/M00/6B/55/wKgDaVc6hsyxQ8nWAABWkqxY2as287.png",
+          "title": "最火节目飙升榜",
+          "subtitle": "真相来了！榜单出炉，不服来辩！",
+          "key": "1_57_ranking:track:scoreByTime:1:0",
+          "orderNum": 0,
+          "contentType": "track",
+          "rankingRule": "scoreByTime",
+          "period": 1,
+          "categoryId": 0,
+          "firstId": 23390707,
+          "firstTitle": "首席医官 407 人参和萝卜",
+          "calcPeriod": "日榜",
+          "top": 100,
+          "firstKResults": [
+            {
+              "id": 23390707,
+              "title": "首席医官 407 人参和萝卜",
+              "contentType": "track"
+            },
+            {
+              "id": 23411424,
+              "title": "《摸金天师》第106章 因祸得福（求订阅， 求打赏！）",
+              "contentType": "track"
+            },
+            {
+              "id": 23423456,
+              "title": "段子来了丨活在恐怖小说里的你，干嘛操心童话是不是骗人的61017（采采）",
+              "contentType": "track"
+            }
+          ]
+        },
+        {
+          "ret": 0,
+          "maxPageId": 0,
+          "totalCount": 0,
+          "pageId": 0,
+          "pageSize": 1,
+          "list": [],
+          "rankingListId": 21,
+          "coverPath": "http://fdfs.xmcdn.com/group11/M0B/17/D9/wKgDbVVxRmPRLf9JAABdZjkfM4Y496.png",
+          "title": "最多订阅经典榜",
+          "subtitle": "真相来了！榜单出炉，不服来辩！",
+          "key": "1_21_ranking:album:subscribed:30:0",
+          "orderNum": 0,
+          "contentType": "album",
+          "rankingRule": "subscribed",
+          "period": 30,
+          "categoryId": 0,
+          "firstId": 239463,
+          "firstTitle": "罗辑思维 全集",
+          "calcPeriod": "月榜",
+          "top": 100,
+          "firstKResults": [
+            {
+              "id": 239463,
+              "title": "罗辑思维 全集",
+              "contentType": "album"
+            },
+            {
+              "id": 4756811,
+              "title": "摸金天师（活人回避）：紫襟故事",
+              "contentType": "album"
+            },
+            {
+              "id": 3071659,
+              "title": "首席医官",
+              "contentType": "album"
+            }
+          ]
+        },
+        {
+          "ret": 0,
+          "maxPageId": 0,
+          "totalCount": 0,
+          "pageId": 0,
+          "pageSize": 1,
+          "list": [],
+          "rankingListId": 66,
+          "coverPath": "http://fdfs.xmcdn.com/group17/M0B/19/02/wKgJJFeDJYjCcI0hAABSsA0MCgU526.jpg",
+          "title": "付费精品畅销榜",
+          "subtitle": "本月百大霸榜畅销精品，先听为快！",
+          "key": "1_66_ranking:album:paid:30:0",
+          "orderNum": 0,
+          "contentType": "album",
+          "rankingRule": "paid",
+          "period": 30,
+          "categoryId": 0,
+          "firstId": 5318395,
+          "firstTitle": "跟着龚琳娜学唱歌",
+          "calcPeriod": "月榜",
+          "top": 100,
+          "firstKResults": [
+            {
+              "id": 5318395,
+              "title": "跟着龚琳娜学唱歌",
+              "contentType": "album"
+            },
+            {
+              "id": 4345263,
+              "title": "马东携奇葩天团亲授“好好说话”",
+              "contentType": "album"
+            },
+            {
+              "id": 5157453,
+              "title": "湖畔大学三板斧：马云及阿里合伙人首次公开创业心法",
+              "contentType": "album"
+            }
+          ]
+        },
+        {
+          "ret": 0,
+          "maxPageId": 0,
+          "totalCount": 0,
+          "pageId": 0,
+          "pageSize": 1,
+          "list": [],
+          "rankingListId": 54,
+          "coverPath": "http://fdfs.xmcdn.com/group13/M0A/55/0A/wKgDXlcgkHyBrEwwAABy5L3qH4c546.png",
+          "title": "热门分享榜",
+          "subtitle": "真相来了！榜单出炉，不服来辩！",
+          "key": "1_54_ranking:track:shared:1:0",
+          "orderNum": 0,
+          "contentType": "track",
+          "rankingRule": "shared",
+          "period": 1,
+          "categoryId": 0,
+          "firstId": 23168511,
+          "firstTitle": "老办法抓不住新机会[罗辑思维]No·191",
+          "calcPeriod": "日榜",
+          "top": 100,
+          "firstKResults": [
+            {
+              "id": 23168511,
+              "title": "老办法抓不住新机会[罗辑思维]No·191",
+              "contentType": "track"
+            },
+            {
+              "id": 23181104,
+              "title": "主播夏萌：你说话直，我很介意 - 催眠一只猫头鹰",
+              "contentType": "track"
+            },
+            {
+              "id": 23194470,
+              "title": "谢谢大家，除了感动还是感动~第311章 刺青",
+              "contentType": "track"
+            }
+          ]
+        },
+        {
+          "ret": 0,
+          "maxPageId": 0,
+          "totalCount": 0,
+          "pageId": 0,
+          "pageSize": 1,
+          "list": [],
+          "rankingListId": 42,
+          "coverPath": "http://fdfs.xmcdn.com/group11/M03/23/2F/wKgDbVV-lWWx51SbAAB0q5Gc0vg075.png",
+          "title": "有声小说风云榜",
+          "subtitle": "真相来了！榜单出炉，不服来辩！",
+          "key": "1_42_ranking:album:custom:42",
+          "orderNum": 0,
+          "contentType": "album",
+          "rankingRule": "custom",
+          "period": 0,
+          "categoryId": 0,
+          "firstId": 2688124,
+          "firstTitle": "罗布泊之咒（章鱼播讲）",
+          "top": 0,
+          "firstKResults": [
+            {
+              "id": 2688124,
+              "title": "罗布泊之咒（章鱼播讲）",
+              "contentType": "album"
+            },
+            {
+              "id": 3370627,
+              "title": "忘川",
+              "contentType": "album"
+            },
+            {
+              "id": 3888524,
+              "title": "《麻衣神算子》紫襟故事",
+              "contentType": "album"
+            }
+          ]
+        },
+        {
+          "ret": 0,
+          "maxPageId": 0,
+          "totalCount": 0,
+          "pageId": 0,
+          "pageSize": 1,
+          "list": [],
+          "rankingListId": 51,
+          "coverPath": "http://fdfs.xmcdn.com/group12/M0B/09/CB/wKgDW1bMDAXylkDuAACQCQw3pRc765.png",
+          "title": "最潮外语收听榜",
+          "subtitle": "真相来了！榜单出炉，不服来辩！",
+          "key": "1_51_ranking:album:downloaded:7:5",
+          "orderNum": 0,
+          "contentType": "album",
+          "rankingRule": "downloaded",
+          "period": 7,
+          "categoryId": 5,
+          "firstId": 305415,
+          "firstTitle": "口语天天练",
+          "calcPeriod": "周榜",
+          "top": 20,
+          "firstKResults": [
+            {
+              "id": 305415,
+              "title": "口语天天练",
+              "contentType": "album"
+            },
+            {
+              "id": 303085,
+              "title": "南瓜姐姐段子单词-大学四六级",
+              "contentType": "album"
+            },
+            {
+              "id": 3240558,
+              "title": "夏说英文晨读",
+              "contentType": "album"
+            }
+          ]
+        },
+        {
+          "ret": 0,
+          "maxPageId": 0,
+          "totalCount": 0,
+          "pageId": 0,
+          "pageSize": 1,
+          "list": [],
+          "rankingListId": 49,
+          "coverPath": "http://fdfs.xmcdn.com/group14/M03/D9/9D/wKgDZFaCV-TCBfW5AACKmuXeklg693.png",
+          "title": "最受欢迎教育榜",
+          "subtitle": "真相来了！榜单出炉，不服来辩！",
+          "key": "1_49_ranking:album:subscribed:30:13",
+          "orderNum": 0,
+          "contentType": "album",
+          "rankingRule": "subscribed",
+          "period": 30,
+          "categoryId": 13,
+          "firstId": 4264862,
+          "firstTitle": "时间管理·易效能®叶武滨",
+          "calcPeriod": "月榜",
+          "top": 97,
+          "firstKResults": [
+            {
+              "id": 4264862,
+              "title": "时间管理·易效能®叶武滨",
+              "contentType": "album"
+            },
+            {
+              "id": 2698706,
+              "title": "在清华听演讲",
+              "contentType": "album"
+            },
+            {
+              "id": 4627127,
+              "title": "5分钟心理学",
+              "contentType": "album"
+            }
+          ]
+        },
+        {
+          "ret": 0,
+          "maxPageId": 0,
+          "totalCount": 0,
+          "pageId": 0,
+          "pageSize": 1,
+          "list": [],
+          "rankingListId": 52,
+          "coverPath": "http://fdfs.xmcdn.com/group14/M05/47/CD/wKgDY1cQnfGDf6tuAACb-6NYvIw939.png",
+          "title": "娱乐热播榜",
+          "subtitle": "娱乐频道热播节目",
+          "key": "1_52_ranking:track:commented:7:4",
+          "orderNum": 0,
+          "contentType": "track",
+          "rankingRule": "commented",
+          "period": 7,
+          "categoryId": 4,
+          "firstId": 22751274,
+          "firstTitle": "好久不贱｜vol114：宁愿没钱吃饭，不能没有外观。（十九）",
+          "calcPeriod": "周榜",
+          "top": 100,
+          "firstKResults": [
+            {
+              "id": 22751274,
+              "title": "好久不贱｜vol114：宁愿没钱吃饭，不能没有外观。（十九）",
+              "contentType": "track"
+            },
+            {
+              "id": 22578303,
+              "title": "糗事播报之为什么不给祖国母亲过生日——未来（2016.10.03）【同程旅游冠名播出】",
+              "contentType": "track"
+            },
+            {
+              "id": 22649284,
+              "title": "【马上有未来】270期 校园修炼手册 （1005）",
+              "contentType": "track"
+            }
+          ]
+        },
+        {
+          "ret": 0,
+          "maxPageId": 0,
+          "totalCount": 0,
+          "pageId": 0,
+          "pageSize": 1,
+          "list": [],
+          "rankingListId": 55,
+          "coverPath": "http://fdfs.xmcdn.com/group10/M03/51/34/wKgDZ1chwgHAnuyRAAB45W_1eyc078.png",
+          "title": "音乐热播榜",
+          "subtitle": "真相来了！榜单出炉，不服来辩！",
+          "key": "1_55_ranking:track:played:1:2",
+          "orderNum": 0,
+          "contentType": "track",
+          "rankingRule": "played",
+          "period": 1,
+          "categoryId": 2,
+          "firstId": 21451261,
+          "firstTitle": "手捧玫瑰花，参加你的婚礼|Hand Tied Roses|手捧玫瑰花，參加你的婚禮",
+          "calcPeriod": "日榜",
+          "top": 100,
+          "firstKResults": [
+            {
+              "id": 21451261,
+              "title": "手捧玫瑰花，参加你的婚礼|Hand Tied Roses|手捧玫瑰花，參加你的婚禮",
+              "contentType": "track"
+            },
+            {
+              "id": 23240453,
+              "title": "【音乐相对论】韩语版《红豆》思密达",
+              "contentType": "track"
+            },
+            {
+              "id": 23104721,
+              "title": "我希望遇见一个如你一般的人从你的全世界路过 - 小南",
+              "contentType": "track"
+            }
+          ]
+        },
+        {
+          "ret": 0,
+          "maxPageId": 0,
+          "totalCount": 0,
+          "pageId": 0,
+          "pageSize": 1,
+          "list": [],
+          "rankingListId": 59,
+          "coverPath": "http://fdfs.xmcdn.com/group16/M01/6D/E0/wKgDbFc6_a_guDgUAABZk08mxXQ870.jpg",
+          "title": "商业财经热播榜",
+          "subtitle": "聆听商业脉动、知晓经济动向，你不能错过的财经节目！",
+          "key": "1_59_ranking:album:subscribed:1:8",
+          "orderNum": 0,
+          "contentType": "album",
+          "rankingRule": "subscribed",
+          "period": 1,
+          "categoryId": 8,
+          "firstId": 239463,
+          "firstTitle": "罗辑思维 全集",
+          "calcPeriod": "日榜",
+          "top": 100,
+          "firstKResults": [
+            {
+              "id": 239463,
+              "title": "罗辑思维 全集",
+              "contentType": "album"
+            },
+            {
+              "id": 269179,
+              "title": "吴晓波频道",
+              "contentType": "album"
+            },
+            {
+              "id": 4743804,
+              "title": "檀谈",
+              "contentType": "album"
+            }
+          ]
+        },
+        {
+          "ret": 0,
+          "maxPageId": 0,
+          "totalCount": 0,
+          "pageId": 0,
+          "pageSize": 1,
+          "list": [],
+          "rankingListId": 56,
+          "coverPath": "http://fdfs.xmcdn.com/group7/M02/6E/01/wKgDX1c6_ZfCLOrYAACDdmMWD3E310.jpg",
+          "title": "通晓天下新闻榜",
+          "subtitle": "每天通宵天下事的100个新闻电台",
+          "key": "1_56_ranking:album:subscribed:1:1",
+          "orderNum": 0,
+          "contentType": "album",
+          "rankingRule": "subscribed",
+          "period": 1,
+          "categoryId": 1,
+          "firstId": 3385980,
+          "firstTitle": "静说日本",
+          "calcPeriod": "日榜",
+          "top": 100,
+          "firstKResults": [
+            {
+              "id": 3385980,
+              "title": "静说日本",
+              "contentType": "album"
+            },
+            {
+              "id": 4229010,
+              "title": "随艺听欧洲",
+              "contentType": "album"
+            },
+            {
+              "id": 4334325,
+              "title": "新闻早餐",
+              "contentType": "album"
+            }
+          ]
+        },
+        {
+          "ret": 0,
+          "maxPageId": 0,
+          "totalCount": 0,
+          "pageId": 0,
+          "pageSize": 1,
+          "list": [],
+          "rankingListId": 60,
+          "coverPath": "http://fdfs.xmcdn.com/group7/M05/6E/5F/wKgDWlc6_cDSLN8TAABrpbm1xw8820.jpg",
+          "title": "科技播客精选榜",
+          "subtitle": "有趣有料的科技播客，听就够了！",
+          "key": "1_60_ranking:album:subscribed:1:18",
+          "orderNum": 0,
+          "contentType": "album",
+          "rankingRule": "subscribed",
+          "period": 1,
+          "categoryId": 18,
+          "firstId": 335347,
+          "firstTitle": "卓老板聊科技",
+          "calcPeriod": "日榜",
+          "top": 100,
+          "firstKResults": [
+            {
+              "id": 335347,
+              "title": "卓老板聊科技",
+              "contentType": "album"
+            },
+            {
+              "id": 4904372,
+              "title": "果壳电台",
+              "contentType": "album"
+            },
+            {
+              "id": 246622,
+              "title": "原来是这样？！",
+              "contentType": "album"
+            }
+          ]
+        },
+        {
+          "ret": 0,
+          "maxPageId": 0,
+          "totalCount": 0,
+          "pageId": 0,
+          "pageSize": 1,
+          "list": [],
+          "rankingListId": 61,
+          "coverPath": "http://fdfs.xmcdn.com/group7/M05/6E/5F/wKgDWlc6_cqS-503AACRSvnvtvo900.jpg",
+          "title": "涨知识历史人文榜",
+          "subtitle": "涨点历史知识很重要！不听会吃亏！",
+          "key": "1_61_ranking:album:subscribed:1:9",
+          "orderNum": 0,
+          "contentType": "album",
+          "rankingRule": "subscribed",
+          "period": 1,
+          "categoryId": 9,
+          "firstId": 245403,
+          "firstTitle": "明朝那些事儿（上部）",
+          "calcPeriod": "日榜",
+          "top": 100,
+          "firstKResults": [
+            {
+              "id": 245403,
+              "title": "明朝那些事儿（上部）",
+              "contentType": "album"
+            },
+            {
+              "id": 3703879,
+              "title": "三国",
+              "contentType": "album"
+            },
+            {
+              "id": 193590,
+              "title": "百家讲坛【2016】",
+              "contentType": "album"
+            }
+          ]
+        },
+        {
+          "ret": 0,
+          "maxPageId": 0,
+          "totalCount": 0,
+          "pageId": 0,
+          "pageSize": 1,
+          "list": [],
+          "rankingListId": 63,
+          "coverPath": "http://fdfs.xmcdn.com/group11/M09/85/22/wKgDa1dhNrDB9CLKAABWkqxY2as014.jpg",
+          "title": "优质专辑榜",
+          "subtitle": "最多人听的专辑TOP100",
+          "key": "1_63_ranking:album:score:7:0",
+          "orderNum": 0,
+          "contentType": "album",
+          "rankingRule": "score",
+          "period": 7,
+          "categoryId": 0,
+          "firstId": 5110899,
+          "firstTitle": "Lullaby",
+          "calcPeriod": "周榜",
+          "top": 100,
+          "firstKResults": [
+            {
+              "id": 5110899,
+              "title": "Lullaby",
+              "contentType": "album"
+            },
+            {
+              "id": 4427085,
+              "title": "（2016最新）郭德纲相声精选高清版",
+              "contentType": "album"
+            },
+            {
+              "id": 4756811,
+              "title": "摸金天师（活人回避）：紫襟故事",
+              "contentType": "album"
+            }
+          ]
+        },
+        {
+          "ret": 0,
+          "maxPageId": 0,
+          "totalCount": 0,
+          "pageId": 0,
+          "pageSize": 1,
+          "list": [],
+          "rankingListId": 93,
+          "coverPath": "http://fdfs.xmcdn.com/group19/M09/73/8C/wKgJK1ekIKKjJweGAABWkqxY2as121.jpg",
+          "title": "职场必听十堂课，点击为自己充电",
+          "subtitle": "30天积累10年经验？这10堂课就够了！",
+          "key": "1_93_ranking:album:custom:93",
+          "orderNum": 0,
+          "contentType": "album",
+          "rankingRule": "custom",
+          "period": 0,
+          "categoryId": 0,
+          "firstId": 4606389,
+          "firstTitle": "时间管理10堂课-易效能®",
+          "top": 0,
+          "firstKResults": [
+            {
+              "id": 4606389,
+              "title": "时间管理10堂课-易效能®",
+              "contentType": "album"
+            },
+            {
+              "id": 4541211,
+              "title": "夏说英文-暴虐跟读集训营 【全年订阅版】",
+              "contentType": "album"
+            },
+            {
+              "id": 4828895,
+              "title": "职场能力方程组-套装版[喜见轻课]",
+              "contentType": "album"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ret": 0,
+      "count": 4,
+      "title": "主播榜单",
+      "list": [
+        {
+          "ret": 0,
+          "maxPageId": 0,
+          "totalCount": 0,
+          "pageId": 0,
+          "pageSize": 1,
+          "list": [],
+          "rankingListId": 43,
+          "coverPath": "http://fdfs.xmcdn.com/group11/M03/23/2C/wKgDa1V-laXQY2LPAAB8Gti8EDA937.png",
+          "title": "天声尤物女神榜",
+          "subtitle": "真相来了！榜单出炉，不服来辩！",
+          "key": "1_43_ranking:anchor:custom:43",
+          "orderNum": 0,
+          "contentType": "anchor",
+          "rankingRule": "custom",
+          "period": 0,
+          "categoryId": 0,
+          "firstId": 13163945,
+          "firstTitle": "小婧Angelina",
+          "top": 0,
+          "firstKResults": [
+            {
+              "id": 13163945,
+              "title": "小婧Angelina",
+              "contentType": "anchor"
+            },
+            {
+              "id": 1012382,
+              "title": "Sandy双双",
+              "contentType": "anchor"
+            },
+            {
+              "id": 7327678,
+              "title": "叶子的音乐纪念册",
+              "contentType": "anchor"
+            }
+          ]
+        },
+        {
+          "ret": 0,
+          "maxPageId": 0,
+          "totalCount": 0,
+          "pageId": 0,
+          "pageSize": 1,
+          "list": [],
+          "rankingListId": 44,
+          "coverPath": "http://fdfs.xmcdn.com/group11/M03/23/30/wKgDbVV-lYXwtWluAAB3LBHO_rQ705.png",
+          "title": "优声优色男神榜",
+          "subtitle": "真相来了！榜单出炉，不服来辩！",
+          "key": "1_44_ranking:anchor:custom:44",
+          "orderNum": 0,
+          "contentType": "anchor",
+          "rankingRule": "custom",
+          "period": 0,
+          "categoryId": 0,
+          "firstId": 5527354,
+          "firstTitle": "DJ林琪",
+          "top": 0,
+          "firstKResults": [
+            {
+              "id": 5527354,
+              "title": "DJ林琪",
+              "contentType": "anchor"
+            },
+            {
+              "id": 4078661,
+              "title": "刘鹤佳",
+              "contentType": "anchor"
+            },
+            {
+              "id": 26712857,
+              "title": "苏洋说",
+              "contentType": "anchor"
+            }
+          ]
+        },
+        {
+          "ret": 0,
+          "maxPageId": 0,
+          "totalCount": 0,
+          "pageId": 0,
+          "pageSize": 1,
+          "list": [],
+          "rankingListId": 45,
+          "coverPath": "http://fdfs.xmcdn.com/group15/M03/23/32/wKgDaFV-lcewsjPhAACM_vS-1s4130.png",
+          "title": "后声可畏新人榜",
+          "subtitle": "真相来了！榜单出炉，不服来辩！",
+          "key": "1_45_ranking:anchor:custom:45",
+          "orderNum": 0,
+          "contentType": "anchor",
+          "rankingRule": "custom",
+          "period": 0,
+          "categoryId": 0,
+          "firstId": 5638858,
+          "firstTitle": "夏春瑶",
+          "top": 0,
+          "firstKResults": [
+            {
+              "id": 5638858,
+              "title": "夏春瑶",
+              "contentType": "anchor"
+            },
+            {
+              "id": 26712857,
+              "title": "苏洋说",
+              "contentType": "anchor"
+            },
+            {
+              "id": 9317854,
+              "title": "迷之音小君",
+              "contentType": "anchor"
+            }
+          ]
+        },
+        {
+          "ret": 0,
+          "maxPageId": 0,
+          "totalCount": 0,
+          "pageId": 0,
+          "pageSize": 1,
+          "list": [],
+          "rankingListId": 53,
+          "coverPath": "http://fdfs.xmcdn.com/group16/M00/46/6F/wKgDalcQn4HwORHBAACPbs49IkE830.png",
+          "title": "主播赏金榜",
+          "subtitle": "主播打赏排行榜，帮你心爱的主播来冲榜吧~",
+          "key": "1_53_ranking:anchor:custom:53",
+          "orderNum": 0,
+          "contentType": "anchor",
+          "rankingRule": "custom",
+          "period": 0,
+          "categoryId": 0,
+          "firstId": 5638858,
+          "firstTitle": "夏春瑶",
+          "top": 0,
+          "firstKResults": [
+            {
+              "id": 5638858,
+              "title": "夏春瑶",
+              "contentType": "anchor"
+            },
+            {
+              "id": 29668435,
+              "title": "NJ语瞳",
+              "contentType": "anchor"
+            },
+            {
+              "id": 3096647,
+              "title": "大迷人十九",
+              "contentType": "anchor"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ret": 0,
+  "focusImages": {
+    "ret": 0,
+    "list": [
+      {
+        "id": 3791,
+        "shortTitle": "全球华语播客巅峰榜",
+        "longTitle": "全球华语播客巅峰榜（第70期）",
+        "pic": "http://fdfs.xmcdn.com/group18/M07/84/2D/wKgJJVgEOK3ghif5AAJDIZbfTEI976_android_large.jpg",
+        "type": 8,
+        "url": "http://m.ximalaya.com/xmposter/top_list?app=iting",
+        "activityId": 153,
+        "isShare": true,
+        "is_External_url": false
+      }
+    ],
+    "title": "焦点图"
+  },
+  "msg": "成功"
+}

@@ -1,0 +1,463 @@
+{
+  "data": {
+    "categories": [
+      {
+        "id": 5,
+        "name": "新闻台"
+      },
+      {
+        "id": 14,
+        "name": "音乐台"
+      },
+      {
+        "id": 1,
+        "name": "交通台"
+      },
+      {
+        "id": 11,
+        "name": "经济台"
+      },
+      {
+        "id": 2,
+        "name": "体育台"
+      },
+      {
+        "id": 4,
+        "name": "文艺台"
+      },
+      {
+        "id": 8,
+        "name": "曲艺台"
+      },
+      {
+        "id": 12,
+        "name": "综合台"
+      },
+      {
+        "id": 9,
+        "name": "校园台"
+      },
+      {
+        "id": 6,
+        "name": "方言台"
+      },
+      {
+        "id": 3,
+        "name": "外语台"
+      },
+      {
+        "id": 10,
+        "name": "生活台"
+      },
+      {
+        "id": 13,
+        "name": "都市台"
+      },
+      {
+        "id": 7,
+        "name": "旅游台"
+      },
+      {
+        "id": 15,
+        "name": "其他台"
+      }
+    ],
+    "localRadios": [
+      {
+        "coverLarge": "http://fdfs.xmcdn.com/group6/M08/A9/12/wKgDhFUKl1DA8tvqAABaJo-b_eQ062_mobile_large.jpg",
+        "coverSmall": "http://fdfs.xmcdn.com/group6/M08/A9/12/wKgDhFUKl1DA8tvqAABaJo-b_eQ062_mobile_small.jpg",
+        "fmUid": 23639177,
+        "id": 93,
+        "name": "北京交通广播",
+        "playCount": 1758890,
+        "playUrl": {
+          "aac24": "http://live.xmcdn.com/live/93/24.m3u8",
+          "aac64": "http://live.xmcdn.com/live/93/64.m3u8",
+          "ts24": "http://live.xmcdn.com/live/93/24.m3u8?transcode=ts",
+          "ts64": "http://live.xmcdn.com/live/93/64.m3u8?transcode=ts"
+        },
+        "programId": 44285,
+        "programName": "音乐来了",
+        "programScheduleId": 144265
+      },
+      {
+        "coverLarge": "http://fdfs.xmcdn.com/group6/M03/AD/01/wKgDg1UKmFeRYjYsAAAeKv3qBXg018_mobile_large.jpg",
+        "coverSmall": "http://fdfs.xmcdn.com/group6/M03/AD/01/wKgDg1UKmFeRYjYsAAAeKv3qBXg018_mobile_small.jpg",
+        "fmUid": 23639190,
+        "id": 105,
+        "name": "北京长书广播",
+        "playCount": 401156,
+        "playUrl": {
+          "aac24": "http://live.xmcdn.com/live/105/24.m3u8",
+          "aac64": "http://live.xmcdn.com/live/105/64.m3u8",
+          "ts24": "http://live.xmcdn.com/live/105/24.m3u8?transcode=ts",
+          "ts64": "http://live.xmcdn.com/live/105/64.m3u8?transcode=ts"
+        },
+        "programId": 44579,
+        "programName": "小说连播",
+        "programScheduleId": 76988
+      },
+      {
+        "coverLarge": "http://fdfs.xmcdn.com/group6/M06/AC/B5/wKgDg1UKh1nAlpYtAADaJvWbyMY630_mobile_large.jpg",
+        "coverSmall": "http://fdfs.xmcdn.com/group6/M06/AC/B5/wKgDg1UKh1nAlpYtAADaJvWbyMY630_mobile_small.jpg",
+        "fmUid": 23639133,
+        "id": 45,
+        "name": "CNR高速广播",
+        "playCount": 851424,
+        "playUrl": {
+          "aac24": "http://live.xmcdn.com/live/45/24.m3u8",
+          "aac64": "http://live.xmcdn.com/live/45/64.m3u8",
+          "ts24": "http://live.xmcdn.com/live/45/24.m3u8?transcode=ts",
+          "ts64": "http://live.xmcdn.com/live/45/64.m3u8?transcode=ts"
+        },
+        "programId": 172389,
+        "programName": "畅游天下",
+        "programScheduleId": 213339
+      }
+    ],
+    "location": "北京",
+    "topRadios": [
+      {
+        "coverLarge": "http://fdfs.xmcdn.com/group6/M08/84/D2/wKgDhFT_oxGzpBYYAABn8GON2wI270_mobile_large.jpg",
+        "coverSmall": "http://fdfs.xmcdn.com/group6/M08/84/D2/wKgDhFT_oxGzpBYYAABn8GON2wI270_mobile_small.jpg",
+        "fmUid": 19414524,
+        "id": 1065,
+        "name": "CNR中国之声",
+        "playCount": 29743302,
+        "playUrl": {
+          "aac24": "http://live.xmcdn.com/live/1065/24.m3u8",
+          "aac64": "http://live.xmcdn.com/live/1065/64.m3u8",
+          "ts24": "http://live.xmcdn.com/live/1065/24.m3u8?transcode=ts",
+          "ts64": "http://live.xmcdn.com/live/1065/64.m3u8?transcode=ts"
+        },
+        "programId": 94339,
+        "programName": "央广新闻（午后版）",
+        "programScheduleId": 5260
+      },
+      {
+        "coverLarge": "http://fdfs.xmcdn.com/group6/M0A/AC/B3/wKgDg1UKhxSiBQSKAAD06SSV5o4807_mobile_large.jpg",
+        "coverSmall": "http://fdfs.xmcdn.com/group6/M0A/AC/B3/wKgDg1UKhxSiBQSKAAD06SSV5o4807_mobile_small.jpg",
+        "fmUid": 23639121,
+        "id": 12,
+        "name": "CNR音乐之声",
+        "playCount": 11768134,
+        "playUrl": {
+          "aac24": "http://live.xmcdn.com/live/12/24.m3u8",
+          "aac64": "http://live.xmcdn.com/live/12/64.m3u8",
+          "ts24": "http://live.xmcdn.com/live/12/24.m3u8?transcode=ts",
+          "ts64": "http://live.xmcdn.com/live/12/64.m3u8?transcode=ts"
+        },
+        "programId": 45825,
+        "programName": "快意音乐",
+        "programScheduleId": 238
+      },
+      {
+        "coverLarge": "http://fdfs.xmcdn.com/group6/M06/84/CC/wKgDhFT_oqiCUBrBAACu6A-FdaE282_mobile_large.jpg",
+        "coverSmall": "http://fdfs.xmcdn.com/group6/M06/84/CC/wKgDhFT_oqiCUBrBAACu6A-FdaE282_mobile_small.jpg",
+        "fmUid": 27950535,
+        "id": 53,
+        "name": "上海动感101",
+        "playCount": 3511568,
+        "playUrl": {
+          "aac24": "http://live.xmcdn.com/live/53/24.m3u8",
+          "aac64": "http://live.xmcdn.com/live/53/64.m3u8",
+          "ts24": "http://live.xmcdn.com/live/53/24.m3u8?transcode=ts",
+          "ts64": "http://live.xmcdn.com/live/53/64.m3u8?transcode=ts"
+        },
+        "programId": 44047,
+        "programName": "午后原味音乐",
+        "programScheduleId": 66079
+      },
+      {
+        "coverLarge": "http://fdfs.xmcdn.com/group6/M06/A8/EC/wKgDhFUKjfXyJ_wUAADGj2hAjb0684_mobile_large.jpg",
+        "coverSmall": "http://fdfs.xmcdn.com/group6/M06/A8/EC/wKgDhFUKjfXyJ_wUAADGj2hAjb0684_mobile_small.jpg",
+        "fmUid": 23640064,
+        "id": 1066,
+        "name": "CNR经济之声",
+        "playCount": 10132903,
+        "playUrl": {
+          "aac24": "http://live.xmcdn.com/live/1066/24.m3u8",
+          "aac64": "http://live.xmcdn.com/live/1066/64.m3u8",
+          "ts24": "http://live.xmcdn.com/live/1066/24.m3u8?transcode=ts",
+          "ts64": "http://live.xmcdn.com/live/1066/64.m3u8?transcode=ts"
+        },
+        "programId": 45807,
+        "programName": "交易实况",
+        "programScheduleId": 5386
+      },
+      {
+        "coverLarge": "http://fdfs.xmcdn.com/group8/M04/F4/EE/wKgDYFarFUGhU4IfAAA_8PmYlK0916_mobile_large.jpg",
+        "coverSmall": "http://fdfs.xmcdn.com/group8/M04/F4/EE/wKgDYFarFUGhU4IfAAA_8PmYlK0916_mobile_small.jpg",
+        "fmUid": 0,
+        "id": 1739,
+        "name": "FM87.5经典音乐调频",
+        "playCount": 3433496,
+        "playUrl": {
+          "aac24": "http://live.xmcdn.com/live/1853/24.m3u8",
+          "aac64": "http://live.xmcdn.com/live/1853/64.m3u8",
+          "ts24": "http://live.xmcdn.com/live/1853/24.m3u8?transcode=ts",
+          "ts64": "http://live.xmcdn.com/live/1853/64.m3u8?transcode=ts"
+        },
+        "programId": 170266,
+        "programName": "经典875",
+        "programScheduleId": 192287
+      },
+      {
+        "coverLarge": "http://fdfs.xmcdn.com/group6/M01/AC/E1/wKgDg1UKkJPSIj2SAAAQ4E4jm4k101_mobile_large.jpg",
+        "coverSmall": "http://fdfs.xmcdn.com/group6/M01/AC/E1/wKgDg1UKkJPSIj2SAAAQ4E4jm4k101_mobile_small.jpg",
+        "fmUid": 23640065,
+        "id": 1067,
+        "name": "CCTV13新闻频道",
+        "playCount": 4546105,
+        "playUrl": {
+          "aac24": "http://live.xmcdn.com/live/1067/24.m3u8",
+          "aac64": "http://live.xmcdn.com/live/1067/64.m3u8",
+          "ts24": "http://live.xmcdn.com/live/1067/24.m3u8?transcode=ts",
+          "ts64": "http://live.xmcdn.com/live/1067/64.m3u8?transcode=ts"
+        },
+        "programId": 140663,
+        "programName": "新闻直播间13点档",
+        "programScheduleId": 5557
+      },
+      {
+        "coverLarge": "http://fdfs.xmcdn.com/group6/M00/63/00/wKgDg1U6A9zDHDplAAAPzJacyLM716_mobile_large.jpg",
+        "coverSmall": "http://fdfs.xmcdn.com/group6/M00/63/00/wKgDg1U6A9zDHDplAAAPzJacyLM716_mobile_small.jpg",
+        "fmUid": 23639552,
+        "id": 538,
+        "name": "江苏经典流行音乐",
+        "playCount": 1783170,
+        "playUrl": {
+          "aac24": "http://live.xmcdn.com/live/538/24.m3u8",
+          "aac64": "http://live.xmcdn.com/live/538/64.m3u8",
+          "ts24": "http://live.xmcdn.com/live/538/24.m3u8?transcode=ts",
+          "ts64": "http://live.xmcdn.com/live/538/64.m3u8?transcode=ts"
+        },
+        "programId": 51991,
+        "programName": "975音乐在旅途",
+        "programScheduleId": 84153
+      },
+      {
+        "coverLarge": "http://fdfs.xmcdn.com/group6/M02/A8/E4/wKgDhFUKjBXi6MLnAADDIiwjDe0507_mobile_large.jpg",
+        "coverSmall": "http://fdfs.xmcdn.com/group6/M02/A8/E4/wKgDhFUKjBXi6MLnAADDIiwjDe0507_mobile_small.jpg",
+        "fmUid": 23640058,
+        "id": 1058,
+        "name": "银河台相声小品",
+        "playCount": 2053431,
+        "playUrl": {
+          "aac24": "http://live.xmcdn.com/live/1058/24.m3u8",
+          "aac64": "http://live.xmcdn.com/live/1058/64.m3u8",
+          "ts24": "http://live.xmcdn.com/live/1058/24.m3u8?transcode=ts",
+          "ts64": "http://live.xmcdn.com/live/1058/64.m3u8?transcode=ts"
+        },
+        "programId": 66657,
+        "programName": "时尚工厂",
+        "programScheduleId": 4887
+      },
+      {
+        "coverLarge": "http://fdfs.xmcdn.com/group15/M0A/D7/28/wKgDaFaBALCDh4W4AAD8CNrOFK4658_mobile_large.jpg",
+        "coverSmall": "http://fdfs.xmcdn.com/group15/M0A/D7/28/wKgDaFaBALCDh4W4AAD8CNrOFK4658_mobile_small.jpg",
+        "fmUid": 1051741,
+        "id": 999,
+        "name": "悠米音悦台",
+        "playCount": 2058666,
+        "playUrl": {
+          "aac24": "http://live.xmcdn.com/live/999/24.m3u8",
+          "aac64": "http://live.xmcdn.com/live/999/64.m3u8",
+          "ts24": "http://live.xmcdn.com/live/999/24.m3u8?transcode=ts",
+          "ts64": "http://live.xmcdn.com/live/999/64.m3u8?transcode=ts"
+        },
+        "programId": 169653,
+        "programName": "悠米悦生活",
+        "programScheduleId": 187513
+      },
+      {
+        "coverLarge": "http://fdfs.xmcdn.com/group6/M07/84/C2/wKgDhFT_oiHg_bMpAAARh9J2GYQ813_mobile_large.jpg",
+        "coverSmall": "http://fdfs.xmcdn.com/group6/M07/84/C2/wKgDhFT_oiHg_bMpAAARh9J2GYQ813_mobile_small.jpg",
+        "fmUid": 23639163,
+        "id": 74,
+        "name": "广东音乐之声",
+        "playCount": 1690375,
+        "playUrl": {
+          "aac24": "http://live.xmcdn.com/live/74/24.m3u8",
+          "aac64": "http://live.xmcdn.com/live/74/64.m3u8",
+          "ts24": "http://live.xmcdn.com/live/74/24.m3u8?transcode=ts",
+          "ts64": "http://live.xmcdn.com/live/74/64.m3u8?transcode=ts"
+        },
+        "programId": 56063,
+        "programName": "潘多拉音乐盒",
+        "programScheduleId": 142292
+      },
+      {
+        "coverLarge": "http://fdfs.xmcdn.com/group6/M06/AC/B5/wKgDg1UKh1nAlpYtAADaJvWbyMY630_mobile_large.jpg",
+        "coverSmall": "http://fdfs.xmcdn.com/group6/M06/AC/B5/wKgDg1UKh1nAlpYtAADaJvWbyMY630_mobile_small.jpg",
+        "fmUid": 23639133,
+        "id": 45,
+        "name": "CNR高速广播",
+        "playCount": 851424,
+        "playUrl": {
+          "aac24": "http://live.xmcdn.com/live/45/24.m3u8",
+          "aac64": "http://live.xmcdn.com/live/45/64.m3u8",
+          "ts24": "http://live.xmcdn.com/live/45/24.m3u8?transcode=ts",
+          "ts64": "http://live.xmcdn.com/live/45/64.m3u8?transcode=ts"
+        },
+        "programId": 172389,
+        "programName": "畅游天下",
+        "programScheduleId": 213339
+      },
+      {
+        "coverLarge": "http://fdfs.xmcdn.com/group6/M08/A9/12/wKgDhFUKl1DA8tvqAABaJo-b_eQ062_mobile_large.jpg",
+        "coverSmall": "http://fdfs.xmcdn.com/group6/M08/A9/12/wKgDhFUKl1DA8tvqAABaJo-b_eQ062_mobile_small.jpg",
+        "fmUid": 23639177,
+        "id": 93,
+        "name": "北京交通广播",
+        "playCount": 1758890,
+        "playUrl": {
+          "aac24": "http://live.xmcdn.com/live/93/24.m3u8",
+          "aac64": "http://live.xmcdn.com/live/93/64.m3u8",
+          "ts24": "http://live.xmcdn.com/live/93/24.m3u8?transcode=ts",
+          "ts64": "http://live.xmcdn.com/live/93/64.m3u8?transcode=ts"
+        },
+        "programId": 44285,
+        "programName": "音乐来了",
+        "programScheduleId": 144265
+      },
+      {
+        "coverLarge": "http://fdfs.xmcdn.com/group6/M03/A8/DD/wKgDhFUKixLyR_tyAABxZ5RFmbM821_mobile_large.png",
+        "coverSmall": "http://fdfs.xmcdn.com/group6/M03/A8/DD/wKgDhFUKixLyR_tyAABxZ5RFmbM821_mobile_small.png",
+        "fmUid": 23640046,
+        "id": 1040,
+        "name": "CRI环球资讯",
+        "playCount": 2673009,
+        "playUrl": {
+          "aac24": "http://live.xmcdn.com/live/1040/24.m3u8",
+          "aac64": "http://live.xmcdn.com/live/1040/64.m3u8",
+          "ts24": "http://live.xmcdn.com/live/1040/24.m3u8?transcode=ts",
+          "ts64": "http://live.xmcdn.com/live/1040/64.m3u8?transcode=ts"
+        },
+        "programId": 96837,
+        "programName": "新财富时间",
+        "programScheduleId": 3763
+      },
+      {
+        "coverLarge": "http://fdfs.xmcdn.com/group6/M04/84/B8/wKgDhFT_oZaAmn64AAEEKZpZd08330_mobile_large.jpg",
+        "coverSmall": "http://fdfs.xmcdn.com/group6/M04/84/B8/wKgDhFT_oZaAmn64AAEEKZpZd08330_mobile_small.jpg",
+        "fmUid": 1002118,
+        "id": 1011,
+        "name": "清晨音乐台",
+        "playCount": 1083080,
+        "playUrl": {
+          "aac24": "http://live.xmcdn.com/live/1011/24.m3u8",
+          "aac64": "http://live.xmcdn.com/live/1011/64.m3u8",
+          "ts24": "http://live.xmcdn.com/live/1011/24.m3u8?transcode=ts",
+          "ts64": "http://live.xmcdn.com/live/1011/64.m3u8?transcode=ts"
+        },
+        "programId": 102735,
+        "programName": "只听好歌不听话",
+        "programScheduleId": 2684
+      },
+      {
+        "coverLarge": "http://fdfs.xmcdn.com/group6/M0B/88/AE/wKgDg1T_on6A3yO5AAAQoeQQFfQ332_mobile_large.jpg",
+        "coverSmall": "http://fdfs.xmcdn.com/group6/M0B/88/AE/wKgDg1T_on6A3yO5AAAQoeQQFfQ332_mobile_small.jpg",
+        "fmUid": 23639548,
+        "id": 534,
+        "name": "江苏新闻广播",
+        "playCount": 1136140,
+        "playUrl": {
+          "aac24": "http://live.xmcdn.com/live/534/24.m3u8",
+          "aac64": "http://live.xmcdn.com/live/534/64.m3u8",
+          "ts24": "http://live.xmcdn.com/live/534/24.m3u8?transcode=ts",
+          "ts64": "http://live.xmcdn.com/live/534/64.m3u8?transcode=ts"
+        },
+        "programId": 144696,
+        "programName": "重点关注1542",
+        "programScheduleId": 83620
+      },
+      {
+        "coverLarge": "http://fdfs.xmcdn.com/group11/M04/33/9D/wKgDa1cLSGvyY7fBAACJEgwl40Q960_mobile_large.jpg",
+        "coverSmall": "http://fdfs.xmcdn.com/group11/M04/33/9D/wKgDa1cLSGvyY7fBAACJEgwl40Q960_mobile_small.jpg",
+        "fmUid": 23639643,
+        "id": 634,
+        "name": "浙江交通之声",
+        "playCount": 720851,
+        "playUrl": {
+          "aac24": "http://live.xmcdn.com/live/634/24.m3u8",
+          "aac64": "http://live.xmcdn.com/live/634/64.m3u8",
+          "ts24": "http://live.xmcdn.com/live/634/24.m3u8?transcode=ts",
+          "ts64": "http://live.xmcdn.com/live/634/64.m3u8?transcode=ts"
+        },
+        "programId": 73975,
+        "programName": "小崔热线",
+        "programScheduleId": 200956
+      },
+      {
+        "coverLarge": "http://fdfs.xmcdn.com/group6/M06/84/C9/wKgDhFT_ooCjkmmkAAA4E0ludxE638_mobile_large.jpg",
+        "coverSmall": "http://fdfs.xmcdn.com/group6/M06/84/C9/wKgDhFT_ooCjkmmkAAA4E0ludxE638_mobile_small.jpg",
+        "fmUid": 23639143,
+        "id": 56,
+        "name": "上海第一财经频率",
+        "playCount": 1372237,
+        "playUrl": {
+          "aac24": "http://live.xmcdn.com/live/56/24.m3u8",
+          "aac64": "http://live.xmcdn.com/live/56/64.m3u8",
+          "ts24": "http://live.xmcdn.com/live/56/24.m3u8?transcode=ts",
+          "ts64": "http://live.xmcdn.com/live/56/64.m3u8?transcode=ts"
+        },
+        "programId": 153815,
+        "programName": "交易完成时",
+        "programScheduleId": 66399
+      },
+      {
+        "coverLarge": "http://fdfs.xmcdn.com/group6/M08/84/D1/wKgDhFT_ovjB-3u8AAAv2V4xXBg126_mobile_large.jpg",
+        "coverSmall": "http://fdfs.xmcdn.com/group6/M08/84/D1/wKgDhFT_ovjB-3u8AAAv2V4xXBg126_mobile_small.jpg",
+        "fmUid": 23639202,
+        "id": 119,
+        "name": "天津相声广播",
+        "playCount": 2627068,
+        "playUrl": {
+          "aac24": "http://live.xmcdn.com/live/119/24.m3u8",
+          "aac64": "http://live.xmcdn.com/live/119/64.m3u8",
+          "ts24": "http://live.xmcdn.com/live/119/24.m3u8?transcode=ts",
+          "ts64": "http://live.xmcdn.com/live/119/64.m3u8?transcode=ts"
+        },
+        "programId": 54591,
+        "programName": "健康杂谈",
+        "programScheduleId": 94115
+      },
+      {
+        "coverLarge": "http://fdfs.xmcdn.com/group14/M0A/39/32/wKgDZFWaI13RyveSAAAgtMDss70515_mobile_large.jpg",
+        "coverSmall": "http://fdfs.xmcdn.com/group14/M0A/39/32/wKgDZFWaI13RyveSAAAgtMDss70515_mobile_small.jpg",
+        "fmUid": 23639164,
+        "id": 75,
+        "name": "CRI HIT FM",
+        "playCount": 1022955,
+        "playUrl": {
+          "aac24": "http://live.xmcdn.com/live/75/24.m3u8",
+          "aac64": "http://live.xmcdn.com/live/75/64.m3u8",
+          "ts24": "http://live.xmcdn.com/live/75/24.m3u8?transcode=ts",
+          "ts64": "http://live.xmcdn.com/live/75/64.m3u8?transcode=ts"
+        },
+        "programId": 52023,
+        "programName": "Afternoon Hits",
+        "programScheduleId": 102274
+      },
+      {
+        "coverLarge": "http://fdfs.xmcdn.com/group6/M02/88/BB/wKgDg1T_o0ixhwrqAAAYO4AUeNs781_mobile_large.jpg",
+        "coverSmall": "http://fdfs.xmcdn.com/group6/M02/88/BB/wKgDg1T_o0ixhwrqAAAYO4AUeNs781_mobile_small.jpg",
+        "fmUid": 23639883,
+        "id": 867,
+        "name": "陕西音乐广播",
+        "playCount": 741865,
+        "playUrl": {
+          "aac24": "http://live.xmcdn.com/live/867/24.m3u8",
+          "aac64": "http://live.xmcdn.com/live/867/64.m3u8",
+          "ts24": "http://live.xmcdn.com/live/867/24.m3u8?transcode=ts",
+          "ts64": "http://live.xmcdn.com/live/867/64.m3u8?transcode=ts"
+        },
+        "programId": 171775,
+        "programName": "男神女神下午茶",
+        "programScheduleId": 205992
+      }
+    ]
+  },
+  "ret": 0
+}
